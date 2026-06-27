@@ -6,6 +6,7 @@
 <p align="center">
   Modify by shamil. added Language filtering Quality,Season,Episode filtering.
   Stream and Direct Download added
+  Base Repo : https://github.com/MN-BOTS/ShobanaFilterBot
 <p align="center">
   A powerful and versatile Telegram bot designed for filtering, automation, and much more!
 </p>
