@@ -1,8 +1,11 @@
 
 <h1 align="center">
-  <b>Shobana Filter Bot</b>
+  <b>Shobana Filter Bot V5 (by Shamil)</b>
 </h1>
 
+<p align="center">
+  Modify by shamil. added Language filtering Quality,Season,Episode filtering.
+  Stream and Direct Download added
 <p align="center">
   A powerful and versatile Telegram bot designed for filtering, automation, and much more!
 </p>
@@ -37,7 +40,9 @@
 ## ✨ Features
 
 - ✅ Auto Filter  
-- ✅ Manual Filter  
+- ✅ Manual Filter
+- ❤️ Lang,Quality,Season,Episode filter
+- ❤️ Straming & Direct Download
 - ✅ IMDB Search and Info  
 - ✅ Admin Commands  
 - ✅ Broadcast Messages  
@@ -166,7 +171,9 @@ Note: Commands are automatically synced to Telegram (BotFather menu) when the bo
 - `DATABASE_NAME2`..`DATABASE_NAME5`: Optional database names for those extra MongoDB URIs (defaults to `DATABASE_NAME`).  
 - `POSTGRES_URI`: PostgreSQL connection URI used when `DATABASE_URI` is not set.  
 - `LOG_CHANNEL`: Telegram channel for activity logs.  
-
+### Streaming 
+1. 'BIN_CHANNEL' ()
+2. 'STREAM_BASE_URL' (https://nutritious-evey-mnbots-c8b6564d.koyeb.app)
 ### Database priority order
 1. `DATABASE_URI` (MongoDB)
 2. `POSTGRES_URI` (PostgreSQL SQL backend)
